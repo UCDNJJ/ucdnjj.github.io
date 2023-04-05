@@ -12,13 +12,13 @@ pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 .highlight .err { color: inherit; background-color: inherit; }
 
 // Add logo to masthead
-.site-title::before {
-	content: url("BICCN_logo.png");
-	display: inline-block;
-	position: relative;
-	width: 37px;
-	top: 5px;
-}
+// .site-title::before {
+// 	content: url("BICCN_logo.png");
+// 	display: inline-block;
+// 	position: relative;
+// 	width: 37px;
+// 	top: 5px;
+// }
 
 // Avoid wrapping of email address
 .contact-list .u-email { font-size: 95%; }
