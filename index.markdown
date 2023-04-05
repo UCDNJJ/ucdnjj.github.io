@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: BICCN 2.0 Challenge
 ---
 
-### Predicting cell-type-specific enhancer function from epigenetic and sequence data
+## Predicting cell-type-specific enhancer function from epigenetic and sequence data
 
 ## Summary [Bing will draft]
 
