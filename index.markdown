@@ -6,7 +6,7 @@ layout: page
 title: BICCN 2.0 Challenge
 ---
 
-### Predicting cell-type-specific enhancer function from epigenetic and sequence data
+# Predicting cell-type-specific enhancer function from epigenetic and sequence data
 
 ## Summary [Bing will draft]
 
