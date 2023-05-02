@@ -18,19 +18,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BICCN 2.0 Enhancer prediction challenge
+title: BICCN Challenge
 email: nelson.johansen@alleninstitute.org
 description: >- # this means to ignore newlines until "baseurl:"
-  BICCN Description here?
+  ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  
 
 # Build settings
 theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
+
+##
+include: ["_pages"]
+
+##
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

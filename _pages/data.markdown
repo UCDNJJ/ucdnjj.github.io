@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Data
+layout: single
+classes: wide
+title: Overview
 permalink: /data/
+author_profile: true
+author: Billy Rick
 ---
 
 ## Data descriptions
