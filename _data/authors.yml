@@ -1,7 +1,7 @@
 # /_data/authors.yml
 BICCN:
   name        : "BICCN"
-  bio         : "**Enhancer prediction challenge.**"
+  bio         : "**Enhancer prediction challenge**"
   website     : "/"
   avatar      : "/assets/images/biccn-logo-white.png"
   links:

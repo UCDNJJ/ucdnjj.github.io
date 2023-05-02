@@ -8,7 +8,7 @@ author: BICCN
 ---
 
 We believe there are key traits of our challenge that will drive innovation:
-Modeling tasks are formally defined with clear mathematical and biological interpretation
+* Modeling tasks are formally defined with clear mathematical and biological interpretation
 * Easily accessible cross-species dataset are publicly available in raw and ready-to-go formats
 * Rigorous quantitative metrics are defined for each task to judge model success.
 * Benchmark models are provided to identify improvement over current standards.
