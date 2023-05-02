@@ -4,7 +4,7 @@ classes: wide
 title: Approach
 permalink: /about/
 author_profile: true
-author: Billy Rick
+author: BICCN
 ---
 
 We believe there are key traits of our challenge that will drive innovation:

@@ -4,7 +4,7 @@ classes: wide
 title: Join us!
 permalink: /registration/
 author_profile: true
-author: Billy Rick
+author: BICCN
 ---
 
 If you are interested in getting involved you can start by registering for to be the first to hear about updates!

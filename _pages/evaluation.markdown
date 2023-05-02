@@ -4,7 +4,7 @@ classes: wide
 title: Evaluation
 permalink: /evaluation/
 author_profile: true
-author: Billy Rick
+author: BICCN
 ---
 
 Metrics for cell annotation-specific functional enhancer prediction aim to characterize how well the ranked list of enhancers correspond to experimentally validated enhancer collections.

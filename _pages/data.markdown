@@ -4,7 +4,7 @@ classes: wide
 title: Overview
 permalink: /data/
 author_profile: true
-author: Billy Rick
+author: BICCN
 ---
 
 ## Data descriptions
