@@ -11,6 +11,10 @@ author: BICCN
 <br>
 ![WashU](/assets/images/data_overview.png)
 
+## Summary
+
+TODO
+
 ## Join the challenge!
 <p align="center">
   <a href="https://biccnchallenge.paperform.co">Registration form</a>
@@ -18,13 +22,7 @@ author: BICCN
   <img src="/assets/qr_code/registration.png">
 </p>
 
-## Summary
-
-TODO
-
-## Description
-
-TODO
+The challenge will begin in late June.
 
 ## Organizing committee
 

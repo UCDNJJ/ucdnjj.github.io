@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Approach
-permalink: /about/
+permalink: /-/
 author_profile: true
 author: BICCN
 ---
