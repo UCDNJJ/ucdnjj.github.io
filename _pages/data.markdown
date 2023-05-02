@@ -7,6 +7,8 @@ author_profile: true
 author: BICCN
 ---
 
+![WashU](/assets/images/data_overview.png)
+
 The data for this challenge is...
 
 ## Data descriptions
