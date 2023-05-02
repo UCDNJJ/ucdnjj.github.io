@@ -7,6 +7,8 @@ author_profile: true
 author: BICCN
 ---
 
+This challenge is comprised of two phases which aim to ...
+
 ### Phase 1: Leveraging cross-species multi-omics to build robust models of epigenetics 
 
 Here the goal is to identify machine learning algorithms that can predict epigenetic profiles cross-species. Each team will train a model to predict ATAC-seq accessibility profiles from one species and we will evaluate the models ability to predict ATAC-seq accessibility on a held-out species.

@@ -13,7 +13,7 @@ author: BICCN
 
 ## Join the challenge!
 <p align="center">
-  <a href="https://q4zy93ov.paperform.co">Registration form</a>
+  <a href="https://biccnchallenge.paperform.co">Registration form</a>
   <br>
   <img src="/assets/qr_code/registration.png">
 </p>

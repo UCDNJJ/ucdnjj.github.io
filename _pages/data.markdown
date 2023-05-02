@@ -7,6 +7,8 @@ author_profile: true
 author: BICCN
 ---
 
+The data for this challenge is...
+
 ## Data descriptions
 	
 Template: 
