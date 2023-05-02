@@ -1,13 +1,11 @@
 ---
 layout: single
 classes: wide
-title: Tasks
+title: Challenge phases
 permalink: /tasks/
 author_profile: true
 author: Billy Rick
 ---
-
-## Challenge phases
 
 ### Phase 1: Leveraging cross-species multi-omics to build robust models of epigenetics 
 
