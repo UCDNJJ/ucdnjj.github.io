@@ -19,7 +19,7 @@ In this competition for BICCN 2.0, we present the task of predicting cell type-s
 
 ## Join the challenge!
 <p align="center">
-  <a href="https://biccnchallenge.paperform.co">Registration form</a>
+  <a href="https://biccnchalleng.paperform.co">Registration form</a>
   <br>
   <img src="/assets/qr_code/registration.png">
 </p>
