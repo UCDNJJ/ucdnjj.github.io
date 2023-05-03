@@ -13,16 +13,15 @@ The data for this challenge is...
 
 ## Data availability
 
-Docker ...
+Box links and brief summary ...
 
 ## Data descriptions
-	
-Template: 
-Data type
-Reason for inclusion
-Storage of data
-References
-Data starter kits [Nelson Johansen]
+
+### 10X Multiome
+
+### snm3C
+
+## Data starter kits
 
 Template: 
 Data type
