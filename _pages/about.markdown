@@ -26,7 +26,7 @@ We believe there are key traits of our challenge that will drive innovation:
 
 Our goal is to host an open source, community driven challenge with flexible benchmarking of formalized tasks in cross-species single-cell multi-omics analysis. We are interested in providing un-baised evaluation of novel methods, for prediction of celltype-specific cis-regulatory elements, that incoperate data-driven factors including cross-species conservation of epigenetic signal as well as biological priors from domain experts.
 
-### Hosting
+### Leaderboards
 
-Our challenge is hosted on XXX. Benchmarks are evaluated using XXX. Leaderboards are hosted on our (Results)[LINK] page. All code, method and leadership is driven by broad input from the scientific community.
+Leaderboards are hosted on our (Leardboard)[http://biccnchallenge.org/leaderboard/] page. All code and methods are driven by broad input from the scientific community.
 
