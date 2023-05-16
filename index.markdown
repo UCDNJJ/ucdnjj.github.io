@@ -24,7 +24,9 @@ In this competition, for BICCN 2.0, we present the task of predicting cell type-
   <img src="/assets/qr_code/registration.png">
 </p>
 
-The challenge will begin in Late June. Winners will have the opportunity to present their models at a venue that is still to be decided.
+* The challenge will begin in Late June. 
+
+* Winners will have the opportunity to present their models at a venue that is still to be decided.
 
 ## Organizing committee
 | <img width="75" alt="" src="/assets/images/biccn-logo-white.png">  **Nelson Johansen** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Bosiljka Tasic** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Trygve Bakken** |
