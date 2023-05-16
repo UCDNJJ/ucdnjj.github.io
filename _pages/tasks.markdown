@@ -7,14 +7,10 @@ author_profile: true
 author: BICCN
 ---
 
-This challenge is comprised of two phases which aim to ...
+This challenge is comprised of a single phase:
 
-### Phase 1: Leveraging cross-species multi-omics to build robust models of epigenetics 
+### Identifying functional enhancers per cell annotation
 
-Here the goal is to identify machine learning algorithms that can predict epigenetic profiles cross-species. Each team will train a model to predict ATAC-seq accessibility profiles from one species and we will evaluate the models ability to predict ATAC-seq accessibility on a held-out species.
+Here the goal is to define novel machine learning algorithms to predict function enhancers specific to individual cell types, using multi-modalities and species profiling of the motor cortex. The data sets provided for this task are a diverse collection of multi-omics profiles from four species (Human, Macaque, Marmoset and Mouse) that can be integrated as well as incorporated with biological priors.
 
-### Phase 2: Identifying functional enhancers per cell annotation
-
-Here the goal is to define novel machine learning algorithms to predict function enhancers for individual cell types, using different modalities and species. The data sets provided for this task are a diverse collection of multi-omics profiles of four species that can be integrated as well as incorporated with biological priors.
-
-Teams will optimize models that provide a ranked list of genomic regions (enhancers) for each cell annotation which will be evaluated against our experimentally validated enhancers.
+Teams will optimize models that provide a ranked list of genomic regions (enhancers) for each cell annotation. The predictions will be evaluated against a large collection of experimentally validated enhancers.
