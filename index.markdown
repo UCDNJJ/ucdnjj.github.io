@@ -29,6 +29,7 @@ In this competition, for BICCN 2.0, we present the task of predicting cell type-
 * Winners will have the opportunity to present their models at a venue that is still to be decided.
 
 ## Organizing committee
+| :-- | -- | --:|
 | <img width="75" alt="" src="/assets/images/biccn-logo-white.png">  **Nelson Johansen** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Bosiljka Tasic** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Trygve Bakken** |
 | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Ed Lein** |  <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Bing Ren** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Joe Ecker** |
 |<img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Author** |  <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Author** |<img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Author** |
