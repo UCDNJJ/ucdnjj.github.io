@@ -24,7 +24,7 @@ In this competition, teams will predict cell type-specific enhancers using new m
   <img src="/assets/qr_code/registration.png">
 </p>
 
-* The challenge will begin in early September. 
+* The challenge will begin in September. 
 
 * Winners will have the opportunity to present their models at a venue that is still to be decided.
 
