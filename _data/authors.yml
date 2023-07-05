@@ -7,11 +7,11 @@ BICCN:
   links:
     - label: "About"
       url: /about/
-    # - label: "Data"
-    #   url: /data/
+    - label: "Data"
+      url: /data/
     - label: "Tasks"
       url: /tasks/
-    # - label: "Evaluation"
-    #   url: /evaluation/
+    - label: "Evaluation"
+      url: /evaluation/
     # - label: "Leaderboard"
     #   url: https://google.com

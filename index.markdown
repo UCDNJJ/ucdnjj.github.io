@@ -1,5 +1,5 @@
 ---
-title: "Predicting cell-type-specific functional enhancers"
+title: "Predicting functional cell type-specific enhancers from cross-species multi-omics"
 #header:
 #  image: /assets/images/biccn-logo-3.png
 layout: single
@@ -9,13 +9,13 @@ author: BICCN
 ---
 
 <br>
-![WashU](/assets/images/data_overview.png)
+![WashU](/assets/images/BICCN_challenge_schematic.png)
 
 ## Summary
 
-Single cell sequencing technologies now enable the measurement of millions of cells to define atlases, or catalogs, of cell types across tissues, species and disease. Recent advancements enable the measurement of multiple high-dimension modalities (e.g. RNA and epigenomics) simultaneously from the same cell. Multi-omic and multi-species profiling, for the first time, identifies conservation in molecular features which define cell types that are part of a complex systems such as the brain (Hodge et al. 2019, Yao et al. 2023, SEA-AD). 
+Single-cell sequencing technologies enable molecular profiling of millions of cells to define atlases, or catalogs, of cell types across tissues and species. Recent advancements enable measurement of multiple genomic features (e.g. RNA and open chromatin) from the same cell. Multi-omic profiling of the brain across species enables high-resolution alignment of ‘homologous’ cell types that have conserved and specialized molecular features (Hodge et al. 2019, Jorstad et al. 2022, Zemke et al. 2023). 
 
-In this competition, for BICCN 2.0, we present the task of predicting cell type-specific cis-regulatory (CRE) enhancer elements using a first of its kind multi-omics and multi-species atlases of cell types in the primary motor cortex. Teams will predict cell type-specific enhancers by learning representations of multiple modalities measured in the same cell and then be evaluated against a collection of in-vivo experimentally screened enhancers. Progress will reveal how species conservation of transcriptomics, epigenomics and DNA sequence identifies cell type-specific molecular features, as foundation for targeted exploration of cell types in brain circuitry across species.
+In this competition, teams will predict cell type-specific enhancers using new multi-omics and multi-species atlases of cell types in the primary motor cortex. Teams will be evaluated against the on-target and off-target in vivo activity in mouse brain of a collection of several hundred enhancers that were experimentally screened. Progress will serve as a foundation for targeted exploration of cell types in brain circuitry across species.
 
 ## Join the challenge!
 <p align="center">
@@ -24,15 +24,22 @@ In this competition, for BICCN 2.0, we present the task of predicting cell type-
   <img src="/assets/qr_code/registration.png">
 </p>
 
-* The challenge will begin in early september. 
+* The challenge will begin in early September. 
 
 * Winners will have the opportunity to present their models at a venue that is still to be decided.
 
 ## Organizing committee
-| :--- | :---: | ---: |
-| <img width="75" alt="" src="/assets/images/biccn-logo-white.png">  **Nelson Johansen** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Bosiljka Tasic** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Trygve Bakken** |
-| <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Ed Lein** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Bing Ren** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Joe Ecker** |
-| <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Author** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Author** | <img width="75" alt="" src="/assets/images/biccn-logo-white.png"> **Author** |
+
+--- | --- | --- | ---
+| <img width="75" alt="" src="/assets/people/nelson.jpg">  **Nelson Johansen** | <img width="75" alt="" src="/assets/people/bosiljka.jpeg"> **Bosiljka Tasic** | <img width="75" alt="" src="/assets/people/trygve.jpeg"> **Trygve Bakken** | <img width="75" alt="" src="/assets/people/ed.jpg"> **Ed Lein** | 
+
+--- | --- | ---
+|<img width="75" alt="" src="/assets/people/bing.jpg"> **Bing Ren** | | |
+
+--- | --- | ---
+|<img width="75" alt="" src="/assets/people/joe.jpg"> **Joe Ecker** | | |
+
+
 
 ## Funding support
 

@@ -9,22 +9,40 @@ author: BICCN
 
 ![WashU](/assets/images/data_overview.png)
 
-The data for this challenge is...
+M1 tissue was obtained from three human, macaque, marmoset (Callithrix jacchus) donors, and MOp tissue from eight P56 C57BL/6J male mice (Mus musculus). Mouse MOp was dissected into four subregions (2C, 3C, 4B, 5D) as described in [Li et al. 2021 (Nature 2021)](https://www.nature.com/articles/s41586-021-03604-1). Each subregion was pooled from four mice for each replicate, and a total of two replicates was performed for each subregion. Additional experimental details are reported in [Zemke et al. 2023](https://www.biorxiv.org/content/10.1101/2023.04.08.536119v1).
+
+### 10X Multiome
+<p align="center">
+  <img src="/assets/images/10X.png" />
+</p>
+
+Using 10x multiome (10x Genomics) we simultaneously profiled both transcriptomes and chromatin accessibility. In total, we profiled 40,937 human nuclei, 34,773 macaque nuclei, 34,310 marmoset nuclei, and 47,404 mouse nuclei with 10X Multiome. [10X Genomics](https://www.10xgenomics.com/blog/introducing-chromium-single-cell-multiome-atac-gene-expression).
+
+### snm3C-seq
+<p align="center">
+  <img src="/assets/images/snm3C.png" />
+</p>
+
+Using snm3C-seq (single-cell Methyl-HiC) we profiled DNA methylation with 3D genome contacts. In total, we profiled 8,198 human nuclei, 5,737 macaque nuclei, 4,999 marmoset nuclei, and 5,349 mouse nuclei with snm3C-seq [Lee et al. 2019](https://www.nature.com/articles/s41592-019-0547-z).
+
+## Cell type annotation
+
+<p align="center">
+  <img src="/assets/images/celltype_overview.png" />
+</p>
+
+Consensus cell types (n=45), common across species, defined in [Bakken et al. 2021](https://www.nature.com/articles/s41586-021-03465-8) were assigned to both the 10X Multiome and snm3C-seq nuclei from all four species.
 
 ## Data availability
 
-Box links and brief summary ...
-
-## Data descriptions
-
-### 10X Multiome
-
-### snm3C
+Box link to data will be shared closer to challenge start date.
 
 ## Data starter kits
 
-Template: 
-Data type
-Description of file formats
-Python notebook with examples of loading / interacting with data.
-References
+We are providing data start kits on [Box](Link) in a format outlined for [multiVI](https://docs.scvi-tools.org/en/stable/tutorials/notebooks/MultiVI_tutorial.html).
+
+## Genome Assemblies and Annotations:
+* Homo sapiens (Human): GRCh38 (hg38), annotation: hg38 Gencode v33
+* Mus musculus (Mouse): GRCm38 (mm10), annotation: mm10 Gencode vM22
+* Macaca mulatta (Rhesus monkey): Mmul_10 (rheMac10), annotation: Ensembl release 104
+* Callithrix jacchus (white-tufted-ear marmoset): cj1700_1.1 (calJac4), annotation: GCA_009663435.2
