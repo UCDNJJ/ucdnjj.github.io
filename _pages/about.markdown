@@ -29,7 +29,7 @@ Our goal is to host an open source, community driven challenge with flexible ben
 
 ### Expectations on model sharing
 
-
+Teams are expected to provide a one-page document describing their approach in sufficient detail that a person knowledgeable in the field would be able to replicate the results. Detailing all data sets used, biological priors incoperated and an overview of the predictive model would constitute a sufficient overview of the teams approach. 
 
 ### Leaderboards
 
