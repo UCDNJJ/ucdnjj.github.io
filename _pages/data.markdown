@@ -39,9 +39,9 @@ We are providing data start kits on [Dropbox](Link) in a format outlined for [mu
 
 For each of the four species you will find:
 
-* An `.h5ad` file containing the gene counts, ATAC-seq peaks and mGC, MGN methylation for each cell from the 10X Multiome and snm3C experiments.
+* An `.h5ad` file containing the gene counts, ATAC-seq peaks and mCG, mCH methylation for each cell from the 10X Multiome and snm3C experiments.
 * Fragment files from the ATAC-seq componenet of the 10X Multiome experiments.
-* Bulk HiC loops called within each species for each subclass.
+* Psuedo-Bulk HiC loops called within each species for each subclass.
 
 A python notebook exploring the `.h5ad` objects can be found here to provide a quick start into the provided data. 
 
