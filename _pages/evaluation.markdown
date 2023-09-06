@@ -25,9 +25,9 @@ Briefly, each enhancer is screened as follows:
 * Mice were injected retro-orbitally (RO) with the enhancer AAV.
 * Scoring of flouresence in brain slices to define specificity of enhancer element.
 
-In total we have experimentally validated **hundreds** of enhancer elements selected to be specific for a given cortical cell population. 
+In total we have experimentally validated **hundreds** of enhancer elements selected to be specific for a given cortical cell population. For further details of the Allen Institues enhancer screening efforts please refer to [Graybuck and Daigle et al. 2021](https://www.cell.com/neuron/fulltext/S0896-6273(21)00159-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627321001598%3Fshowall%3Dtrue) or [Mich et al. 2021](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00067-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112472100067X%3Fshowall%3Dtrue).
 
-### Metrics
+## Evaluation metrics
 
 <p align="center">
   <img src="/assets/images/evalutaion_schematic.png" />
