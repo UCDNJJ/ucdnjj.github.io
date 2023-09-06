@@ -27,6 +27,10 @@ We believe there are key traits of our challenge that will drive innovation:
 
 Our goal is to host an open source, community driven challenge with flexible benchmarking of formalized tasks in cross-species, single-cell multi-omics analysis. We are interested in providing unbaised evaluation of novel methods, for prediction of cell type-specific cis-regulatory elements, that incorporate data-driven factors including cross-species comparisons of epigenetic signals and biological priors from domain experts.
 
+### Expectations on model sharing
+
+
+
 ### Leaderboards
 
 Leaderboards will be hosted on the Leaderboard webpage. All code and methods are driven by broad input from the scientific community.
