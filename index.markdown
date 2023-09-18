@@ -17,16 +17,35 @@ Single-cell sequencing technologies enable molecular profiling of millions of ce
 
 In this competition, teams will predict cell type-specific enhancers using new multi-omics and multi-species atlases of cell types in the primary motor cortex. Teams will be evaluated against the on-target and off-target in vivo activity in mouse brain of a collection of several hundred enhancers that were experimentally screened. Progress will serve as a foundation for targeted exploration of cell types in brain circuitry across species.
 
+## Timeline
+
+* **September 19, 2023** - Start date.
+
+* **October 19, 2023** - First submission by teams.
+
+* **November 19, 2023** - Final submission by teams.
+
+* **December 1, 2023** - Leaderboard finalized!
+
+All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competiton organizers reserve the right to update the contest timeline if they deem it necessary.
+
+## Submission File
+
+For each `peak` called and reported in `Mouse_atac.h5ad`, you should report the **rank** of said peak for every annotation in `subclass_Bakken_2022`. Thus, each element of the submission will correspond to a `peak` / `subclass_Bakken_2022` pair and the contain the corresponding rank as determined by your method.
+
+Your submission should contain a header and have the following format:
+
+```
+chr,start,end,subclass_Bakken_2022,rank
+chr1,1,500,"Pvalb",1
+chr1,501,1000,"Pvalb",2
+...
+chr1,1,500,"Astro",1000
+chr1,501,1000,"Astro",30000
+```
+
 ## Join the challenge!
-<p align="center">
-  <a href="https://biccnchalleng.paperform.co">Registration form</a>
-  <br>
-  <img src="/assets/qr_code/registration.png">
-</p>
-
-* The challenge will begin in September. 
-
-* Winners will have the opportunity to present their models at a venue that is still to be decided.
+Now that the challenge has started, any additional teams wishing to join should reach out to nelson.johansen@alleninstitute.org. 
 
 ## Organizing committee
 
@@ -39,7 +58,10 @@ In this competition, teams will predict cell type-specific enhancers using new m
 --- | --- | ---
 |<img width="75" alt="" src="/assets/people/joe.jpg"> **Joe Ecker** | | |
 
-
-
 ## Funding support
 
+* Allen Institute for Brain Science
+* U19MH11483 to J.R.E and E.M.C
+* U19MH114831-04s1 to J.R.E. and B.R.
+* 5U01MH121282 to J.R.E and M.M.B
+* UM1HG011585 to B.R.
