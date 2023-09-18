@@ -43,12 +43,15 @@ For each of the four species you will find:
   - `obs.sample`: An identifier for donor and sequencing batch.
   - `obs.species`: Which species the cell came from.
   - `...`: Additional 10X multiome QC metrics.
+  - `...`: Cell type annotations from Bakken et al. 2022.
 * An `.h5ad` file containing the ATAC-seq peaks from the 10X Multiome.
   - `obs.Sample`: An identifier for donor and sequencing batch.
   - `...`: Addtional ATAC-seq specific QC metrics.
+  - `...`: Cell type annotations from Bakken et al. 2022.
 * Fragment files from the ATAC-seq componenet of the 10X Multiome experiments.
   - These fragment files may contain low-quality cells. Barcodes should be filtered using the corresponding `Species_atac.h5ad`. 
 * `.h5ad` files containing the gene fractions of mCG, mCH methylation for each cell from the snm3C.
+  - `...`: Cell type annotations from Bakken et al. 2022.
 * Psuedo-Bulk HiC loops called for each subclass annotation.
 
 Please feel free to reach out with any additional questions or data requests.
