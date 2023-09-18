@@ -31,7 +31,7 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 
 ## Submission File
 
-For each `peak` called and reported in `Mouse_atac.h5ad`, you should report the **rank** of said peak for every annotation in `subclass_Bakken_2022`. Thus, each element of the submission will correspond to a `peak` / `subclass_Bakken_2022` pair and contain the corresponding rank as determined by your method.
+For each `peak` called and reported in `Mouse_atac.h5ad`, you should report the **rank** of said peak for each unique annotation in `subclass_Bakken_2022`. Thus, each element of the submission will correspond to a `peak` / `subclass_Bakken_2022` pair and contain the corresponding rank as determined by your method.
 
 Your submission should contain a header and have the following format:
 
