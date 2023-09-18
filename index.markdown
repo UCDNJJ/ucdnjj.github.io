@@ -31,7 +31,7 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 
 ## Submission File
 
-For each `peak` called and reported in `Mouse_atac.h5ad`, you should report the **rank** of said peak for every annotation in `subclass_Bakken_2022`. Thus, each element of the submission will correspond to a `peak` / `subclass_Bakken_2022` pair and the contain the corresponding rank as determined by your method.
+For each `peak` called and reported in `Mouse_atac.h5ad`, you should report the **rank** of said peak for every annotation in `subclass_Bakken_2022`. Thus, each element of the submission will correspond to a `peak` / `subclass_Bakken_2022` pair and contain the corresponding rank as determined by your method.
 
 Your submission should contain a header and have the following format:
 
@@ -43,6 +43,8 @@ chr1,501,1000,"Pvalb",2
 chr1,1,500,"Astro",1000
 chr1,501,1000,"Astro",30000
 ```
+
+Each team should create a Team directory at [Dropbox](https://www.dropbox.com/scl/fo/64k04s0nd07rk4lwya6ax/h?rlkey=dqt10h8t3l5u1v93adwiof18i&dl=0) and place their submission file within.
 
 ## Join the challenge!
 Now that the challenge has started, any additional teams wishing to join should reach out to nelson.johansen@alleninstitute.org. 
