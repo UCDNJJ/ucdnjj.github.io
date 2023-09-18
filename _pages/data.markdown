@@ -35,7 +35,7 @@ Consensus cell types (n=45), common across species, defined in [Bakken et al. 20
 
 ## Data availability
 
-We are providing data start kits on [Dropbox](Link) in a format outlined for [multiVI](https://docs.scvi-tools.org/en/stable/tutorials/notebooks/MultiVI_tutorial.html).
+We are providing data starter kits on [Dropbox](https://www.dropbox.com/sh/edg0ua1u720kgt3/AAD0VaZpDiCCUzUEAUfKB7rha?dl=0) in `.h5ad` or modality specific formats.
 
 For each of the four species you will find:
 
