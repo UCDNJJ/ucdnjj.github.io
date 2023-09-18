@@ -46,6 +46,10 @@ chr1,501,1000,"Astro",30000
 
 Each team should create a Team directory at [Dropbox](https://www.dropbox.com/scl/fo/64k04s0nd07rk4lwya6ax/h?rlkey=dqt10h8t3l5u1v93adwiof18i&dl=0) and place their submission file within.
 
+## Ask a question
+
+We will be using the Github issues page for this website, [found here](https://github.com/UCDNJJ/ucdnjj.github.io/issues), as a means for discussion and questions regarding the challenge. 
+
 ## Join the challenge!
 Now that the challenge has started, any additional teams wishing to join should reach out to nelson.johansen@alleninstitute.org. 
 
