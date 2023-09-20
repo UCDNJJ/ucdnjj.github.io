@@ -35,7 +35,11 @@ Consensus cell types (n=45), common across species, defined in [Bakken et al. 20
 
 ## Data availability
 
-We are providing data starter kits on [Dropbox](https://www.dropbox.com/sh/edg0ua1u720kgt3/AAD0VaZpDiCCUzUEAUfKB7rha?dl=0) in `.h5ad` or modality specific formats. Request for additional file formats for each modality will be considered!
+We are providing data starter kits on Amazon AWS S3 at s3://biccn-challenge in `.h5ad` or modality specific formats. Request for additional file formats for each modality will be considered!
+
+Using the AWS CLI you can easy download all data files (~130GB) with the following command:
+
+`aws s3 sync s3://biccn-challenge . --no-sign-request`
 
 For each of the four species you will find:
 
