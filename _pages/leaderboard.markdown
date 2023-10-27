@@ -7,7 +7,4 @@ author_profile: true
 author: BICCN
 ---
 
-| Team | Model | Score | Rank |
-| :---------         |     :--------- :      |     :--------- :      |          --------- : |
-| PeakRankeR   | FDR     | 103    | 1    |
-| ArchR     | Weighted       | 1000       | 2      |
+### Leaderboards will go live 10/30/23! And will be updated weekly from 10/30 until the challenge end date.

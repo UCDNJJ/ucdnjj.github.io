@@ -7,5 +7,5 @@ main:
     url: /tasks/
   - title: "Evaluation"
     url: /evaluation/
-  # - title: "Leaderboard"
-  #   url: /leaderboard/
+  - title: "Leaderboard"
+    url: /leaderboard/
