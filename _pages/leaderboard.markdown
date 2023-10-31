@@ -1,13 +1,11 @@
 ---
 layout: single
 classes: wide
-title: Leaderboard (5-1-2023)
+title: Leaderboard (10/30/23)
 permalink: /leaderboard/
 author_profile: true
 author: BICCN
 ---
-
-## Current leaderboard (10/30/23)
 
 --- | --- | --- 
 Team | Score | Rank
