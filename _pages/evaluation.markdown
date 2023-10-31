@@ -36,5 +36,5 @@ In total, the Allen Institue has experimentally validated **hundreds** of enhanc
 Metrics for evaluating cell type-specific functional enhancer prediction aim to characterize how well the ranked list of enhancers correspond to experimentally validated enhancer collections.
 
 <p align="center">
-  <img src="/assets/images/evalutaion_layout.png" />
+  <img src="/assets/images/evaluation_layout.png" />
 </p>
