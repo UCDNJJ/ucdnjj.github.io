@@ -17,5 +17,7 @@ Aerts_Lab (results_2) | 260.7564 | 3
 Greenleaf_Lab | 307.7887 | 4
 Tanaka_Lab | 312 | 5
 
-The leaderboard will be updated each Friday based on results in Dropbox or emails to nelson.johansen@alleninstute.org
+The leaderboard will be updated each Friday based on results in Dropbox or emails to nelson.johansen@alleninstute.org.
+
+Details about team scoring can be found on our [Evaluation page](https://biccnchallenge.org/evaluation/#evaluation-metrics).
 
