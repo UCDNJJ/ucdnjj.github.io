@@ -10,7 +10,7 @@ author: BICCN
 --- | --- | --- 
 Team | Score | Rank
 Saroja_Lab | 248.1175 | 1
-Aerts_Lab (results_main) | 283.251 | 2
+Aerts_Lab | 283.251 | 2
 Greenleaf_Lab | 307.7887 | 3
 Tanaka_Lab | 312 | 4
 
