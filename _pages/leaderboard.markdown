@@ -17,7 +17,7 @@ Gillis_Lab | 312 | 5
 
 ## Additional scores from teams submissions
 
---- | --- | --- 
+--- | --- 
 Team | Score 
 20231018_rankings_2 | 260.7564
 20231018_rankings_main | 262.5266
