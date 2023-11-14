@@ -1,10 +1,10 @@
 ---
-layout single
-classes wide
-title Leaderboard (11/13/2023)
-permalink /leaderboard/
-author_profile true
-author BICCN
+layout: single
+classes: wide
+title: Leaderboard (11/13/2023)
+permalink: /leaderboard/
+author_profile: true
+author: BICCN
 ---
 
 Team | Score | Rank
