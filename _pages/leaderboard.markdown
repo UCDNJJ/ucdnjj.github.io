@@ -7,15 +7,15 @@ author_profile true
 author BICCN
 ---
 
---- | --- | --- 
 Team | Score | Rank
+--- | --- | --- 
 Saroja_Lab | 248.1175 | 1
-Aerts_Lab (rank.xlsx) | 260.3262 | 2
+Aerts_Lab (rank) | 260.3262 | 2
 Greenleaf_Lab | 307.7887 | 3
 Tanaka_Lab | 309.3647 | 4
 Gillis_Lab | 312 | 5
 
-## Additional scores from teams submissions
+## Additional scores from teams submissions (11/13/23)
 
 --- | --- 
 Team | Score 
