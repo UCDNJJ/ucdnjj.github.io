@@ -23,9 +23,9 @@ In this competition, teams will predict cell type-specific enhancers using new m
 
 * **October 19, 2023** - First submission by teams.
 
-* **November 19, 2023** - Final submission by teams.
+* **December 15, 2023** - Final submission by teams.
 
-* **December 1, 2023** - Leaderboard finalized!
+* **January 8, 2024** - Leaderboard finalized!
 
 All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competiton organizers reserve the right to update the contest timeline if they deem it necessary.
 
