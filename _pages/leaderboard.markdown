@@ -17,8 +17,9 @@ Tanaka_Lab | 309.3647 | 5
 Gillis_Lab (lohia_final_highintense75) | 309.8393 | 6
 
 ## Additional scores from teams submissions (11/20/23)
---- | --- 
+
 Team | Score 
+--- | --- 
 lohia_final | 312
 lohia_final2 | 312
 
