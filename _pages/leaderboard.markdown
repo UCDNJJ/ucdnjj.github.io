@@ -1,11 +1,28 @@
 ---
 layout: single
 classes: wide
-title: Leaderboard (11/13/2023)
+title: Leaderboard (11/20/2023)
 permalink: /leaderboard/
 author_profile: true
 author: BICCN
 ---
+
+Team | Score | Rank
+--- | --- | --- 
+Saroja_Lab | 248.1175 | 1
+Aerts_Lab (aertslab_rank_seqlets_scplus) | 254.78095 | 2
+Zhang_lab | 296.01155 | 3
+Greenleaf_Lab | 307.7887 | 4
+Tanaka_Lab | 309.3647 | 5
+Gillis_Lab (lohia_final_highintense75) | 309.8393 | 6
+
+## Additional scores from teams submissions (11/20/23)
+--- | --- 
+Team | Score 
+lohia_final | 312
+lohia_final2 | 312
+
+## Leaderboard (11/13/23)
 
 Team | Score | Rank
 --- | --- | --- 
