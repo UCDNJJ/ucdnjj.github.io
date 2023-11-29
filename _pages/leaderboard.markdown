@@ -11,9 +11,9 @@ Team | Score | Rank
 --- | --- | --- 
 Saroja_Lab | 248.1175 | 1
 Aerts_Lab (aertslab_rank_seqlets_scplus) | 254.78095 | 2
-Zhang_lab (s3) | 292.47815 | 3
-Greenleaf_Lab | 307.7887 | 4
-Tanaka_Lab | 309.3647 | 5
+Tanaka_Lab | 287.8426 | 3
+Zhang_lab (s3) | 292.47815 | 4
+Greenleaf_Lab | 307.7887 | 5
 Gillis_Lab (lohia_final_highintense75) | 309.8393 | 6
 
 ## Additional scores from teams submissions (11/28/23)
