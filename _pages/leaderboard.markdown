@@ -16,7 +16,25 @@ Zhang_lab (cselect) | 291.9752 | 4
 Gillis_Lab (lohia_r4) | 304.8978 | 5
 Greenleaf_Lab | 307.7887 | 6
 
-## NOTE: Only top scores from teams submissions reported this week.
+## Additional scores from teams submissions (12/5/23)
+
+Team | Score 
+--- | --- 
+1_DP_M_G | 260.7724
+2_DP_M_G | 268.0446
+3_A_M_G | 251.04245
+4_DT_C | 277.3188
+6_10_S_SE | 254.34325
+7_50_O_SP_SE | 254.29735
+8_50_O_SP | 255.3771
+9_50_O_SE | 259.3483
+10_DPM_M_500_G_BG | 270.3186
+lohia_r1 | 311.4466
+lohia_r2 | 311.2942
+lohia_r3 | 306.69415
+result1130 | 292.20315
+
+
 
 ## Leaderboard (11/28/2023)
 
