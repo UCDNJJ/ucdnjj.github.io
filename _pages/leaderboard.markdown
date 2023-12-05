@@ -1,11 +1,24 @@
 ---
 layout: single
 classes: wide
-title: Leaderboard (11/28/2023)
+title: Leaderboard (12/5/2023)
 permalink: /leaderboard/
 author_profile: true
 author: BICCN
 ---
+
+Team | Score | Rank
+--- | --- | --- 
+Aerts_Lab (5_10_S_SP) | 247.3445 | 1
+Saroja_Lab | 248.1175 | 2
+Tanaka_Lab | 267.8426 | 3
+Zhang_lab (cselect) | 291.9752 | 4
+Gillis_Lab (lohia_r4) | 304.8978 | 5
+Greenleaf_Lab | 307.7887 | 6
+
+## NOTE: Only top scores from teams submissions reported this week.
+
+## Leaderboard (11/28/2023)
 
 Team | Score | Rank
 --- | --- | --- 
