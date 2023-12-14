@@ -1,11 +1,36 @@
 ---
-layout: single
-classes: wide
-title: Leaderboard (12/5/2023)
-permalink: /leaderboard/
-author_profile: true
-author: BICCN
+layout | single
+classes | wide
+title | Leaderboard (12/11/2023)
+permalink | /leaderboard/
+author_profile | true
+author | BICCN
 ---
+
+Team | Score | Rank
+--- | --- | --- 
+Aerts_Lab (5_10_S_SP) | 247.3445 | 1
+Saroja_Lab | 248.1175 | 2
+Tanaka_Lab | 256.75055 | 3
+Zhang_lab (cselect) | 291.9752 | 4
+Gillis_Lab (lohia_r4) | 304.8978 | 5
+Greenleaf_Lab | 307.7887 | 6
+
+## Additional scores from teams submissions (12/11/23)
+
+Team | Score 
+--- | --- 
+1_DP_M_M_N | 273.659
+2_A_M_M_N | 248.35005
+3_A_SC | 248.8719
+4_A_SE | 250.74345
+5_A_SC_SE | 248.92735
+6_DP_SC | 253.18195
+7_DP_SE | 257.55105
+8_DP_SC_SE | 251.45715
+9_DP_SE_ANNOT | 256.75055
+
+## Leaderboard (12/5/2023)
 
 Team | Score | Rank
 --- | --- | --- 
@@ -33,8 +58,6 @@ lohia_r1 | 311.4466
 lohia_r2 | 311.2942
 lohia_r3 | 306.69415
 result1130 | 292.20315
-
-
 
 ## Leaderboard (11/28/2023)
 
