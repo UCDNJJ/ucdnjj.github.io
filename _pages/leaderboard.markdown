@@ -1,11 +1,24 @@
 ---
 layout: single
 classes: wide
-title: Leaderboard (12/11/2023)
+title: Final Leaderboard
 permalink: /leaderboard/
 author_profile: true
 author: BICCN
 ---
+
+Congratulations to the Aert's Lab team for winning the BICCN Challenge! 
+
+Team | Score | Rank
+--- | --- | --- 
+Aerts_Lab | 140.7399 | 1
+Saroja_Lab | 162.79485 | 2
+Gillis_Lab | 200.95745 | 3
+Zhang_lab | 333.2036 | 4
+Tanaka_Lab | 372.3197 | 5
+Greenleaf_Lab (ArchR) | 307.7887 | 6
+
+## Leaderboard (12/11/2023)
 
 Team | Score | Rank
 --- | --- | --- 
