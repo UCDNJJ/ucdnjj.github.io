@@ -7,7 +7,7 @@ author_profile: true
 author: BICCN
 ---
 
-Congratulations to the Aert's Lab team for winning the BICCN Challenge! 
+Congratulations to the Aerts Lab team for winning the BICCN Challenge! 
 
 Team | Score | Rank
 --- | --- | --- 

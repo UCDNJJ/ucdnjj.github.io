@@ -25,7 +25,7 @@ In this competition, teams will predict cell type-specific enhancers using new m
 
 * **December 15, 2023** - Final submission by teams.
 
-* **January 21, 2024** - Leaderboard finalized! Challenge closed, congrats Aert's lab for finishing 1st!
+* **January 21, 2024** - Leaderboard finalized! Challenge closed, congrats Aerts lab for finishing 1st!
 
 All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competiton organizers reserve the right to update the contest timeline if they deem it necessary.
 
