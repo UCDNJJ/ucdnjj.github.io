@@ -14,9 +14,9 @@ Team | Score | Rank
 Aerts_Lab | 140.7399 | 1
 Saroja_Lab | 162.79485 | 2
 Gillis_Lab | 200.95745 | 3
-Greenleaf_Lab (ArchR) | 330.0495 | 6
-Zhang_lab | 333.2036 | 4
-Tanaka_Lab | 372.3197 | 5
+Greenleaf_Lab (ArchR) | 330.0495 | 4
+Zhang_lab | 333.2036 | 5
+Tanaka_Lab | 372.3197 | 6
 
 ## Leaderboard (12/11/2023)
 
